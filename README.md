@@ -20,6 +20,10 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YefriGonzalez&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/laravel/laravel-plain-wordmark.svg">
+  <img align="center" alt="Rafa-Php" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg">
+  <img align="center" alt="Rafa-Php" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rafa-TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -28,9 +32,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Rafa-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rafa-TOMCAT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://thumbs.dreamstime.com/b/letra-m-el-fuego-azul-arde-en-negro-157762892.jpg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://thumbs.dreamstime.com/b/letra-m-el-fuego-azul-arde-en-negro-157762892.jpg">
-  
 </div>
   <br>
   <br>
