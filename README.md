@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="Rafa-Php" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg">
   <img align="center" alt="Rafa-Php" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rafa-TS" height="30" width="40" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/angular.svg">
   <img align="center" alt="Rafa-TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
